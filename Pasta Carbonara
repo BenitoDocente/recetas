@@ -1,0 +1,45 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Receta de Pasta Carbonara</title>
+</head>
+<body>
+    <header>
+        <h1>Receta de Pasta Carbonara</h1>
+    </header>
+
+    <main>
+        <section>
+            <h2>Ingredientes:</h2>
+            <ul>
+                <li>400 g de pasta (espaguetis o fettuccine)</li>
+                <li>150 g de panceta o tocino</li>
+                <li>3 huevos</li>
+                <li>100 g de queso parmesano rallado</li>
+                <li>Pimienta negra recién molida al gusto</li>
+                <li>Sal al gusto</li>
+                <li>2 cucharadas de aceite de oliva virgen extra</li>
+                <li>2 dientes de ajo picados (opcional)</li>
+            </ul>
+        </section>
+
+        <section>
+            <h2>Instrucciones:</h2>
+            <ol>
+                <li>Cocina la pasta en una olla grande con agua salada hirviendo siguiendo las instrucciones del paquete hasta que esté al dente.</li>
+                <li>Mientras tanto, en una sartén grande, calienta el aceite de oliva a fuego medio. Añade la panceta o tocino cortada en tiras y cocina hasta que esté dorada y crujiente.</li>
+                <li>Si deseas, añade los dientes de ajo picados y cocina por unos minutos más hasta que estén fragantes.</li>
+                <li>En un tazón grande, bate los huevos junto con el queso parmesano rallado y una generosa cantidad de pimienta negra recién molida.</li>
+                <li>Cuando la pasta esté lista, escúrrela reservando un poco del agua de cocción.</li>
+                <li>Agrega la pasta cocida a la sartén con la panceta (y el ajo, si lo estás usando) y mezcla bien.</li>
+                <li>Retira la sartén del fuego y añade la mezcla de huevo y queso a la pasta caliente, revolviendo rápidamente para que la salsa se adhiera a la pasta y no se cuaje demasiado.</li>
+                <li>Si la salsa parece demasiado espesa, agrega un poco del agua de cocción reservada para afinarla.</li>
+                <li>Sirve la pasta carbonara caliente con más queso parmesano rallado y pimienta negra recién molida al gusto.</li>
+                <li>¡Disfruta de esta deliciosa pasta carbonara italiana!</li>
+            </ol>
+        </section>
+    </main>
+</body>
+</html>
