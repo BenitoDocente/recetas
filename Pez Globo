@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Receta de Pez Globo (Fugu)</title>
+</head>
+<body>
+    <header>
+        <h1>Receta de Pez Globo (Fugu)</h1>
+    </header>
+
+    <main>
+        <section>
+            <h2>Ingredientes:</h2>
+            <ul>
+                <li>1 filete de pez globo fresco (fugu), limpio y preparado por un profesional</li>
+                <li>2 cucharadas de salsa de soja</li>
+                <li>1 cucharada de mirin (vino de arroz dulce)</li>
+                <li>1 cucharadita de vinagre de arroz</li>
+                <li>1 cucharadita de azúcar</li>
+                <li>1 cebolleta verde, finamente picada</li>
+                <li>1 trozo de jengibre fresco, pelado y rallado</li>
+                <li>Wasabi para servir (opcional)</li>
+                <li>Rodajas de limón para decorar</li>
+            </ul>
+        </section>
+
+        <section>
+            <h2>Instrucciones:</h2>
+            <ol>
+                <li>En un tazón pequeño, mezcla la salsa de soja, el mirin, el vinagre de arroz y el azúcar hasta que el azúcar se disuelva por completo. Este será tu aderezo para el pez globo.</li>
+                <li>Corta el filete de pez globo en rebanadas finas con un cuchillo afilado.</li>
+                <li>Coloca las rebanadas de pez globo en un plato para servir de manera decorativa.</li>
+                <li>Esparce la cebolleta verde y el jengibre rallado sobre las rebanadas de pez globo.</li>
+                <li>Riega el aderezo preparado sobre el pez globo y las verduras picadas.</li>
+                <li>Sirve el pez globo con rodajas de limón y wasabi al lado, si lo deseas.</li>
+                <li>¡Disfruta de tu pez globo con precaución y siempre asegúrate de haberlo obtenido de una fuente segura y preparado por un profesional!</li>
+            </ol>
+        </section>
+    </main>
+</body>
+</html>
