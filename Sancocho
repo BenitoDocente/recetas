@@ -3,11 +3,11 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Receta de Sancocho de Cherne</title>
+    <title>Receta de Sancocho de Cherne con Gofio</title>
 </head>
 <body>
     <header>
-        <h1>Receta de Sancocho de Cherne</h1>
+        <h1>Receta de Sancocho de Cherne con Gofio</h1>
     </header>
 
     <main>
@@ -17,7 +17,6 @@
                 <li>1 kg de cherne (puede usar otros pescados de carne firme)</li>
                 <li>4 papas grandes, peladas y cortadas en trozos</li>
                 <li>2 plátanos verdes pelados y cortados en trozos grandes</li>
-                <li>2 yuca pelada y cortada en trozos</li>
                 <li>2 mazorcas de maíz, cada una cortada en 3-4 trozos</li>
                 <li>2 zanahorias, peladas y cortadas en trozos</li>
                 <li>1 cebolla grande, cortada en rodajas</li>
@@ -27,6 +26,7 @@
                 <li>2 cucharadas de aceite de oliva</li>
                 <li>Sal y pimienta al gusto</li>
                 <li>Caldo de pescado o agua</li>
+                <li>Gofio para espesar</li>
                 <li>Cilantro fresco picado para decorar (opcional)</li>
             </ul>
         </section>
@@ -38,10 +38,11 @@
                 <li>Agrega el cherne cortado en trozos grandes a la olla y cocina por unos minutos hasta que se dore ligeramente por todos lados.</li>
                 <li>Añade suficiente caldo de pescado o agua para cubrir los ingredientes en la olla. Agrega la hoja de laurel y sazona con sal y pimienta al gusto. Lleva a ebullición y luego reduce el fuego a bajo.</li>
                 <li>Cocina a fuego lento durante unos 20 minutos.</li>
-                <li>Agrega las papas, los plátanos, la yuca, las zanahorias y el maíz a la olla. Asegúrate de que todos los ingredientes estén sumergidos en el líquido.</li>
+                <li>Agrega las papas, los plátanos, el maíz y las zanahorias a la olla. Asegúrate de que todos los ingredientes estén sumergidos en el líquido.</li>
                 <li>Cubre la olla y cocina a fuego lento durante aproximadamente 30-40 minutos más, o hasta que las verduras estén tiernas y el pescado esté cocido.</li>
+                <li>Una vez que las verduras estén cocidas, agrega el gofio poco a poco mientras revuelves para espesar el caldo a tu gusto.</li>
                 <li>Retira la hoja de laurel y sirve el sancocho caliente, decorado con cilantro fresco picado si lo deseas.</li>
-                <li>¡Disfruta de este delicioso sancocho de cherne, un plato tradicional canario!</li>
+                <li>¡Disfruta de este delicioso sancocho de cherne con gofio, un plato tradicional canario!</li>
             </ol>
         </section>
     </main>
