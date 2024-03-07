@@ -1,3 +1,60 @@
+<<<<<<< HEAD
+Mojito
+<!DOCTYPE html>
+<html lang="es">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Receta de Mojito</title>
+  <style>
+    body {
+      font-family: Arial, sans-serif;
+      margin: 0;
+      padding: 0;
+    }
+    .container {
+      max-width: 600px;
+      margin: 0 auto;
+      padding: 20px;
+    }
+    h1 {
+      text-align: center;
+    }
+    ul {
+      list-style-type: none;
+      padding: 0;
+    }
+    li {
+      margin-bottom: 10px;
+    }
+  </style>
+</head>
+<body>
+  <div class="container">
+    <h1>Receta de Mojito</h1>
+    <h2>Ingredientes:</h2>
+    <ul>
+      <li>2 oz (60 ml) de ron blanco</li>
+      <li>1 oz (30 ml) de jugo de limón fresco</li>
+      <li>2 cucharaditas de azúcar</li>
+      <li>8-10 hojas de menta fresca</li>
+      <li>Club soda (agua con gas) al gusto</li>
+      <li>Hielo</li>
+      <li>Rodaja de limón y hojas de menta para decorar (opcional)</li>
+    </ul>
+    <h2>Instrucciones:</h2>
+    <ol>
+      <li>En un vaso alto, agrega las hojas de menta y el azúcar. Usa un mortero o un muddler para aplastar suavemente las hojas de menta y liberar su aroma.</li>
+      <li>Agrega el jugo de limón fresco y mezcla bien para disolver el azúcar.</li>
+      <li>Agrega el ron blanco y revuelve para combinar los ingredientes.</li>
+      <li>Llena el vaso con hielo picado.</li>
+      <li>Completa con club soda (agua con gas) hasta llenar el vaso.</li>
+      <li>Revuelve suavemente para mezclar todos los ingredientes.</li>
+      <li>Decora con una rodaja de limón y hojas de menta fresca, si lo deseas.</li>
+      <li>Sirve y disfruta de tu refrescante Mojito.</li>
+    </ol>
+  </div>
+=======
 <!DOCTYPE html>
 <html lang="es">
 <head>
@@ -40,5 +97,6 @@
             </ol>
         </section>
     </main>
+>>>>>>> 88f3d6a26ae482ba6910a6ad73092608d83d9c09
 </body>
 </html>
