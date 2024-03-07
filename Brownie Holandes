@@ -1,0 +1,45 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Receta de Brownies Holandeses</title>
+</head>
+<body>
+    <header>
+        <h1>Receta de Brownies Holandeses</h1>
+    </header>
+
+    <main>
+        <section>
+            <h2>Ingredientes:</h2>
+            <ul>
+                <li>200 g de chocolate negro</li>
+                <li>150 g de mantequilla sin sal</li>
+                <li>200 g de azúcar</li>
+                <li>3 huevos</li>
+                <li>1 cucharadita de extracto de vainilla</li>
+                <li>100 g de harina de trigo</li>
+                <li>1 pizca de sal</li>
+                <li>50 g de nueces picadas (opcional)</li>
+            </ul>
+        </section>
+
+        <section>
+            <h2>Instrucciones:</h2>
+            <ol>
+                <li>Prepara un molde para hornear cuadrado o rectangular, engrasándolo y forrándolo con papel de hornear. Precalienta el horno a 180°C (350°F).</li>
+                <li>En un bol resistente al calor, derrite el chocolate y la mantequilla al baño María o en el microondas, revolviendo ocasionalmente hasta que estén suaves y completamente derretidos.</li>
+                <li>Retira el bol del fuego y mezcla el azúcar en la mezcla de chocolate y mantequilla. Deja enfriar ligeramente.</li>
+                <li>Bate los huevos uno a uno en la mezcla de chocolate. Agrega el extracto de vainilla y mezcla bien.</li>
+                <li>Incorpora la harina tamizada y la pizca de sal a la mezcla de chocolate, revolviendo hasta que esté bien combinado.</li>
+                <li>Si lo deseas, agrega las nueces picadas y revuelve para distribuirlas uniformemente en la masa.</li>
+                <li>Vierte la masa en el molde preparado y extiéndela de manera uniforme.</li>
+                <li>Hornea en el horno precalentado durante unos 25-30 minutos, o hasta que un palillo insertado en el centro salga limpio con solo algunas migas húmedas adheridas.</li>
+                <li>Deja enfriar completamente antes de cortar en porciones y servir.</li>
+                <li>¡Disfruta de tus brownies holandeses con un vaso de leche o tu bebida favorita!</li>
+            </ol>
+        </section>
+    </main>
+</body>
+</html>
