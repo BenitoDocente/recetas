@@ -1,0 +1,74 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Receta de Pastel de Chocolate</title>
+</head>
+<body>
+    <header>
+        <h1>Receta de Pastel de Chocolate</h1>
+    </header>
+
+    <main>
+        <section>
+            <h2>Ingredientes:</h2>
+            <ul>
+                <li>2 tazas de código fuente (harina)</li>
+                <li>1 taza de imágenes y recursos (azúcar)</li>
+                <li>1 cucharadita de documentación (levadura)</li>
+                <li>1 pizca de pruebas unitarias (sal)</li>
+                <li>1 barra de versionamiento (mantequilla)</li>
+                <li>3 huevos de colaboradores (huevos)</li>
+                <li>1 cucharada de compromiso y dedicación (vainilla)</li>
+                <li>Opcional: 1 puñado de ramas para experimentar (chispas de chocolate)</li>
+            </ul>
+        </section>
+
+        <section>
+            <h2>Instrucciones:</h2>
+            <ol>
+                <li>Preparación del repositorio:
+                    <ul>
+                        <li>Abre una terminal y navega hasta el directorio donde deseas crear tu repositorio.</li>
+                        <li>Ejecuta <code>git init</code> para inicializar el repositorio.</li>
+                    </ul>
+                </li>
+                <li>Añadir ingredientes:
+                    <ul>
+                        <li>Añade el código fuente con <code>git add .</code></li>
+                        <li>Añade las imágenes y recursos con <code>git add imágenes/ recursos/</code></li>
+                        <li>Incorpora la documentación con <code>git add DOCUMENTACIÓN.md</code></li>
+                    </ul>
+                </li>
+                <li>Combinar ingredientes:
+                    <ul>
+                        <li>Realiza un commit con <code>git commit -m "Agregar código fuente, recursos e documentación"</code></li>
+                    </ul>
+                </li>
+                <li>Amasar la masa:
+                    <ul>
+                        <li>Si necesitas crear una rama de desarrollo, ejecuta <code>git checkout -b desarrollo</code></li>
+                    </ul>
+                </li>
+                <li>Hornear el pastel:
+                    <ul>
+                        <li>Realiza tus cambios en el código.</li>
+                        <li>Añade los cambios con <code>git add .</code> y haz un nuevo commit con <code>git commit -m "Mensaje descriptivo"</code></li>
+                    </ul>
+                </li>
+                <li>Decorar el pastel:
+                    <ul>
+                        <li>Fusiona tus cambios en la rama principal con <code>git checkout main</code> y <code>git merge desarrollo</code></li>
+                    </ul>
+                </li>
+                <li>Servir el pastel:
+                    <ul>
+                        <li>Empuja tus cambios al repositorio remoto con <code>git push origin main</code></li>
+                    </ul>
+                </li>
+            </ol>
+        </section>
+    </main>
+</body>
+</html>
